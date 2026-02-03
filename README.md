@@ -12,11 +12,11 @@ For a more complete environment that is easier to work with but results in a lar
 
 Run `rdkit` container with an interactive shell:
 
-    docker run -it --rm mcs07/rdkit:latest /bin/bash
+    docker run -it --rm ghcr.io/tabor-research-group/rdkit:latest /bin/bash
 
 Or a python interpreter:
 
-    docker run -it --rm mcs07/rdkit:latest python3
+    docker run -it --rm ghcr.io/tabor-research-group/rdkit:latest python3
 
 ## Building
 
