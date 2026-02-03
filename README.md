@@ -1,3 +1,6 @@
+
+This builds off of [mcs07/rdkit:latest]
+
 # RDKit Docker Image
 
 [RDKit](https://github.com/rdkit/rdkit) is a collection of cheminformatics and machine-learning software written in C++ and Python.
